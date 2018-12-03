@@ -1,0 +1,11 @@
+{
+  "name": "koala.fc",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon.Xia <xiajia@vip.qq.com>",
+  "license": "MIT"
+}
